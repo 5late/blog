@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "m10c"
+
+[params]
+	author = "Slate"
+	description = "My personal blog site."
+	menu_item_seperator = " - "
+	[[params.social]]
+		icon = "github"
+		name = "Github"
+		url = "https://github.com/5late/slatedev"
