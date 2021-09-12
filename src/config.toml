@@ -10,4 +10,4 @@ theme = "m10c"
 	[[params.social]]
 		icon = "github"
 		name = "Github"
-		url = "https://github.com/5late/slatedev"
+		url = "https://github.com/5late"
