@@ -5,6 +5,7 @@ theme = "m10c"
 
 [params]
 	author = "Slate"
+	avatar = "../imgs/smokingwojak.jpg"
 	description = "My personal blog site."
 	menu_item_seperator = " - "
 	[[params.social]]
